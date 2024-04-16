@@ -1,0 +1,118 @@
+Hinglish_dialog_wo_disease,Overall_Summary
+"Patient: Doctor, mujhe kuch hafte se arm pain ho raha hai. Maine bahut si dawai try ki hai lekin theek nahi ho raha. Mujhe bahut darr lag raha hai. 
+Doctor: Mai samajh sakta hun, aapko bahut helpless feel hona chahiye. Kya aapko hath ya ungliyon mein bhi dard hai?
+Patient: Haan, mere hath mein bhi dard hai.
+Doctor: Kya koi kalai mein bhi dard hai?
+Patient: Haan, mujhe kalai mein bhi dard hai.
+Doctor: Aapko shayad <MASK> ho sakta hai.","The patient is experiencing arm pain for several weeks and has tried multiple medicines without relief. The doctor asks about other symptoms, including hand and finger pain and wrist pain, and suggests the possibility of De Quervain disease."
+"Patient: Doctor, mujhe Hip mein dard ho raha hai. Isse meri gati par prabhav pad gaya hai. Ye kyun ho raha hai?
+Doctor: Oh! ye bahut bura lag raha hai. Aur jaanne ke liye, kya aapko Jangh mein bhi dard hai?
+Patient: Haan Doctor, mujhe Jangh mein bhi dard hai.
+Doctor: Kya aapko Kamar dard bhi ho raha hai?
+Patient: Haan Doctor. Mere peeche jalan ki tarah hai.
+Doctor: Main aapki baat samajh raha hoon. Kya aapko Saari body mein dard hai?
+Patient: Haan.
+Doctor: Kya aapko movement mein koi problem hai?
+Patient: Haan, hai.
+Doctor: Shayad aapko <MASK> ho sakta hai.","The patient has been experiencing hip pain, reduced range of motion, groin pain, burning sensation in the back, ache all over, and problems with movement. The doctor suspects that the patient might have a fracture of the pelvis."
+"Patient: Good morning doctor, mujhe low back pain hai. Mai chahta hu issko jyada severe na ho. Please ise turant treat karein.
+Doctor: Main yahaan aapki madad karne ke liye hoon. Theek hai, kya aapko hip pain hai?
+Patient: Exactly, mujhe hip pain mein problem hoti hai.
+Doctor: Kya aapko leg pain feel hota hai?
+Patient: Correct, mujhe leg pain hai.
+Doctor: Aapke lakshan batate hai ki aapko <MASK> hai.","The conversation is between a patient who is suffering from low back pain and a doctor who is trying to diagnose the ailment. The patient mentions that the patient are also experiencing hip and leg pain. The doctor suggests that the symptoms suggest that the patient may have ankylosing spondylitis, which is a type of arthritis that affects the spine and joints. The conversation does not go into further detail about the treatment or management of the disease."
+"Patient: Hello Doctor, mujhe vomiting ho rahi hai. 
+Doctor: Vomiting ho sakti hai. Lekin, kya aapne kabhi Skin rash notice kiya hai?
+Patient: Kripya dekhein aur mujhe batayein ki kya vo hai ya nahi? $S31_1_34.jpg$ .
+Doctor: OK, maine notice kiya hai. Kya aapko Skin itching bhi hai?
+Patient: Haan Doctor, mujhe Skin itching hai. Mujhe samajh nahi aa raha ki ye sab kyun ho raha hai.
+Doctor: Achchha, Skin itching bhi ho rahi hai. Fir, kya aapne Scrotum ki sujan ko notice kiya hai?
+Patient: Haan.
+Doctor: Pehle hi batana chahiye tha aapko. Kya aapke saath Skin lesion bhi hai?
+Patient: Haan Doctor, mere saath Skin lesion hai. Mujhe bahut dard ho raha hai.
+Doctor: Aapke symptoms ke anusar aapko shayad <MASK> ho sakta hai.","The conversation between the patient and the doctor revolves around the patient's symptoms of vomiting, skin rash, itching of skin, swelling of scrotum, and skin lesion. The doctor suspects that the patient might be suffering from Acariasis based on these symptoms."
+"Patient: Hi Doctor, mujhe aankh mein dard kyun ho raha hai. Lagta hai mein ise aur bardasht nahi kar sakti, kya aap mujhe iski wajah bata sakte hain?
+Doctor: Mujhe tumhe takleef mein nahi dekh sakti, chalo hum iski wajah dhoond lete hain. Mujhe check karne do, kya tumhe aankh mein khujli hai?
+Patient: Haan, mujhe hai woh.
+Doctor: Samajh sakti hoon kitni jyada pareshani hogi. Kya tumhe Paresthesia hai?
+Patient: Haan, mujhe hai woh.
+Doctor: Tumhare symptoms ke basis par tumhe <MASK> hai.","The conversation between the patient and doctor revolves around the pain in the patient's eye, which is accompanied by itchiness and paresthesia. The doctor asks some questions to determine the cause of the symptoms and eventually diagnoses the patient with Endophthalmitis."
+"Patient: Hi doctor, mere baby boy ko Naak bandi ki samasya hai. In dino, uski neend iski wajah se disturb ho rahi hai. Mujhe uske liye bahut chinta ho rahi hai. Please help.
+Doctor: I understand your concern. Bacche ki pareshani dekhna bahut mushkil hota hai humare liye. Uski bhar gayi naak use pareshan kar sakti hai. Mujhe uske swasthya ke bare mein kuch aur sawal puchne hain taaki uske lakshano ke bare mein behtar samajh aa sake. Kya usko Dast ki bhi samasya hai?
+Patient: Haan doctor.
+Doctor: Kya usko Skin rash bhi hai?
+Patient: Is $S31_3_7.jpg$ ko dekho.
+Doctor: Mujhe dekhe, ye rash hai. Kya usko Skin sujan bhi hai?
+Patient: Sach hi hai, doctor. Mereko Skin sujan se bhi pareshani ho rahi hai.
+Doctor: Uske lakshano se lag raha hai ki wo deal kar raha hai <MASK> ke sath.",The conversation is about a worried parent seeking help for the patient's baby boy's nasal congestion which is affecting the patient's sleep. The doctor asks further questions to determine if there are any other symptoms present and identifies that the baby is dealing with a diaper rash. The disease identified is diaper rash and the conversation falls under group 12.
+"Patient: Hello! doctor. Please dekhiye mera shoulder, $S31_1_5.jpg$. Mujhe kya problem hai? Doctor: Lagta hai ki aapko mites bite hue hain. Bataiye, kya aap vomiting kar rahe hain? Patient: Haan. Doctor: Aapko ho sakta hai <MASK>","The patient visits the doctor with a skin rash on the patient's shoulder. The doctor suspects mite bites and asks if the patient has been vomiting. Upon confirmation, the doctor diagnoses acariasis, a type of parasitic infection caused by mites."
+"Patient: Doctor, muje aksar seizures ho rahe hain. Meri family isse pareshan hai. Isski wajah kya hai? 
+Doctor: Kitne time se ho raha hai? Kya tumhe khaansi hai? 
+Patient: Haan. 
+Doctor: Kya tum depression se struggle kar rahe ho? 
+Patient: Haan, mujhe depression ki samasya hai. 
+Doctor: Kya tumhe gale mein dard hai? 
+Patient: Thoda bahut mehsoos hota hai. 
+Doctor: Aur tumhe koi kamzori mehsus ho rahi hai? 
+Patient: Haan. 
+Doctor: Tumhe <MASK> hai.","The patient is experiencing frequent seizures and is concerned about the patient's cause. The doctor asks some questions about the patient's medical history, including coughing, depression, sore throat, and weakness. Based on these symptoms, the doctor diagnoses the patient with conversion disorder."
+"Patient: Doctor, mujhe ulti aa rahi hai. Mujhe gale aur seeney mein bechaini mehsoos hoti hai, mujhe kya ho sakta hai. 
+Doctor: Main aapki baat samajh raha hoon. Gale mein pareshani ki wajah se aapko aise bechaini ka ehsaas hota hai. Kya aapko sar mein dard hai?
+Patient: Haan, mujhe bahut tez dard ho raha hai.
+Doctor: Aapko shayad <MASK> ka shikayat ho sakti hai.","The patient is experiencing nausea and discomfort around the patient's throat and chest, as well as a splitting headache. The doctor suspects that the patient may have a concussion, which could be causing these symptoms."
+"Patient: Doctor, mujhe ghabrahat ho rahi hai. Mujhe kuch pareshani hai. Kripya $S205_3_8.jpg$ par nazar daalein. Doctor: Kya aapko ghutne mein dard hai? Patient: Haan, mujhe ghutne mein dard hai. Doctor: Kya aapko pair mein bhi dard hai? Patient: Haan, mujhe pair mein bhi dard hai. Doctor: Kya aapko ghutno mein sakhti ya kasavat hai? Patient: Haan. Doctor: Kya aapko kisi movement mein koi problem hai? Patient: Haan Doctor, mujhe movement mein problem hai. Doctor: Mujhe lagta hai aapko <MASK> ho gaya hai.","In this conversation, the patient expresses the patient's concern about knee swelling and pain. The doctor asks additional questions about the symptoms, such as leg pain, stiffness or tightness, and problems with movement. Based on the information gathered, the doctor diagnoses the patient with Chondromalacia of the patella."
+"Patient: Why am I seeing spots or clouds in vision? Am I going blind doctor?
+Doctor: Mujhe aapki feelings samajh aa rahi hai. Chinta mat kijiye. Kya aapko kamzor nazar ho rahi hai?
+Patient: Haan.
+Doctor: Kya aapko aankho mein jalan ya tej bukhar mehsoos ho raha hai?
+Patient: Meri aankhein frequently jalati hai.
+Doctor: Kya aapko aankho mein khujli bhi ho rahi hai?
+Patient: Haan.
+Doctor: Aapko <MASK> hai.","The patient is concerned about seeing spots or clouds in the patient's vision and afraid of going blind. The doctor reassures the patient and asks about other symptoms like diminished vision, burning/stinging sensation in the eyes, and itchiness. Based on the patient's symptoms, the doctor diagnoses the patient with aphakia, which is a disease that falls under group 7."
+"Patient: Doctor, mujhe banjhpan ka samasya hai. Iski wajah se mujhe bahut chinta ho rahi hai, kripya madad karein. 
+
+Doctor: Mai samajh raha hu ki ye aapke liye pareshani ka vishay hai. Mai ise diagnose karunga. Ye <MASK> ke karan ho sakta hai.","In the conversation, the patient expresses her concern about struggling with infertility and seeks help from the doctor. The doctor acknowledges the patient's worries and suggests a diagnosis. The potential cause of infertility could be female infertility of unknown cause."
+"Patient: Hello doctor, I am suffering from Abnormal appearing skin. You can see in many places my skin has become reddish. It is itching also. What could be its cause?
+Doctor: Mujhe lagta hai, aapko <MASK> se pareshani ho sakti hai.",The patient complains of abnormal appearing skin with redness and itching. The doctor suggests it could be eczema. The disease is identified as eczema and belongs to group 12.
+"Patient: Doctor, mujhe skin ki khujli ho rahi hai. Mujhe apni training miss nahi karni hai. Please meri madad kijiye.
+Doctor: Main samajh sakta hoon ki skin rash kisi ko bhi ho sakta hai. Kya aap skin rash se pareshan hain?
+Patient: Bikul, mujhe skin rash ho gaya hai.
+Doctor: Kya aapki andkoshon mein sujan hai?
+Patient: Haan, doctor.
+Doctor: Kya aapko skin ki ghaav hai?
+Patient: Zaroor, mujhe ho gayi hai.
+Doctor: Aapke lakshan ke hisab se, aap <MASK> se pidit ho sakte hain.","The patient is suffering from itching of the skin and is worried about missing the patient's training. The doctor diagnoses the patient with Acariasis based on the patient's symptoms of skin rash, swelling of scrotum, and skin lesion."
+"Patient: Doctor, mujhe Skin growth ho gayi hai. Iska karan kya ho sakta hai? 
+Doctor: Theek hai. Mujhe batayein, kya aapko Abnormal appearing skin bhi hai? 
+Patient: Sahi hai, doctor. Mere left face par Abnormal appearing skin hai. Is wajah se, mai bina chehre ko chhupaye bahar jane se sharminda hota hu. Kripaya meri madad karein. 
+Doctor: Mujhe aapki chinta samajh mei aarahi hai. Aap dusre logo ki ray par pareshan honge. Iski wajah ka pata lagane ke liye, mujhe batayein, kya aapko Skin lesion hai? 
+Patient: Haan, mere paas Skin lesion hai. 
+Doctor: Theek hai, kya aap Skin dryness, peeling, scaliness, ya roughness se bhi pareshan hai? 
+Patient: Mujhe confirm nahi hai, dekhiye $S11_1_26.jpg$. Kripya koi samadhan sujhaye. 
+Doctor: Mujhe lagta hai yeh bahut zyada gambhir hai. Mai samajh raha hu ki aap dard se pareshan honge. Is masle ki jad tak pahuchne ke liye mai aur sawaal puchunga. Kripya mujhe batayein, kya aapko Skin swelling hai? 
+Patient: Haan, mujhe Skin swelling hai. 
+Doctor: Kya aapko bhi Itching of skin ho rahi hai? 
+Patient: Sahi hai, mujhe Itching of skin se taklif hai. 
+Doctor: Lagta hai aapko <MASK> hai.","The patient is concerned about skin growth and abnormal appearing skin on the patient's left face. The doctor inquires about the presence of skin lesions, dryness, peeling, scaliness, roughness, swelling, and itching. After considering the symptoms, the doctor suggests that the patient may be suffering from Actinic keratosis."
+"Patient: Doctor, mujhe depressive ya psychotic symptoms ho rahe hain. Mujhe apni jaan khatam karne ka ehsaas hota hai, kya aap bata sakte hain iski wajah kya hai?
+Doctor: Mujhe aapko aise baat karte hue sunke chupchap nahi baith sakte. Chaliye iski wajah ko samjhein. Kya aapko chakkar aate hain?
+Patient: Mujhe frequently chakkar aate hain.
+Doctor: Lagta hai aapko <MASK> se guzar raha hai.","The patient tells the doctor about the patient's depressive and psychotic symptoms, including suicidal thoughts, and asks for help in understanding the cause of these feelings. The doctor is alarmed by the patient's worsening condition and explores possible medical causes, including dizziness and a potential diagnosis of epidural hemorrhage. Overall, the conversation suggests that the patient is struggling with mental health issues and may require urgent medical attention."
+"Patient: Hi Doctor, mujhe heavy menstrual flow kyun ho raha hai. Mujhe bahut uncomfortable feel hota hai, please help.
+Doctor: Main samajh sakta hoon ki tum uncomfortable feel kar rahe ho. Main apna best karunga. That sounds bad, kya tumhe unpredictable menstruation hai?
+Patient: Abhi kal se mujhe unpredictable menstruation ho raha hai.
+Doctor: Tumhare symptoms ke basis par tumhe <MASK> hai.",The conversation is between a patient and a doctor about the patient's heavy menstrual flow and unpredictable menstruation. The doctor suspects that the patient may be suffering from endometrial hyperplasia based on her symptoms.
+"Patient: Hi Doctor, mujhe bekar mein weight gain ho raha hai meri body mein. Meri shape khone ki wajah se mujhe pareshani ho rahi hai. Meri madad kijiye. 
+Doctor: Mai samajh sakta hoon ki kitna mushkil ho sakta hai. Kya aapko Apnea ki samasya hai? 
+Patient: Haan Doctor. 
+Doctor: Aapko lagta hai aapko <MASK> hai.","The patient reports experiencing unnecessary weight gain that is affecting the patient's body shape. The doctor inquires about any associated symptoms and identifies the possibility of apnea. The doctor then notes the presence of Acanthosis nigricans, a disease often associated with obesity."
+"Patient: Hi doctor, mujhe Foot or toe pain ho raha hai. Mujhe is dard se lad raha hai aur main ye soch raha tha ki kya is par kuch chinta wali baat hai. 
+Doctor: I'm sorry to hear that you're going through this. Main iska pata lagane ki koshish karunga. Kya aapko aankh ki Symptoms hai? 
+Patient: Yes, mujhe aankh ki Symptoms hai. 
+Doctor: Kya aapke pass Skin growth hai? 
+Patient: Pata nahi, dekhiye $S4_3_5.jpg$. 
+Doctor: Aapke symptoms ishara karte hain ki aapko shayad <MASK> hai.","The patient is experiencing foot or toe pain and seeks medical advice from a doctor. The doctor attempts to diagnose the issue and asks about other symptoms like eye pain and skin growth. Based on the patient's conversation, the doctor suspects that the patient may have flat feet as the underlying condition causing the patient's foot pain."
+"Patient: Hi doctor, Mere paas Kidney mass hai. Mere family physician mujhe dialysis karne ke liye samjhane ki koshish kar rahe hain. Kya isse pareshan hone ki koi baat hai? 
+Doctor: Let me see, Kidney mass se kai tarah ke lakshan ho sakte hain, jaise ki frequent infections, weight loss, aur fatigue. Kya aapne haal hi mein chakkar mahsus kiye hain? 
+Patient: Sach hai, maine chakkar mahsus kiye hain. 
+Doctor: Theek hai, aapko ho sakta hai ki aapke pass <masked> hai.","The conversation is about a patient who has been diagnosed with kidney mass and is being advised by the patient's family physician to do dialysis. The doctor discusses the possible symptoms of kidney mass and asks the patient if the patient have felt dizziness recently. The doctor then informs the patient that the patient might have acute kidney injury, which falls under group 14 diseases."
